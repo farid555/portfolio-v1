@@ -32,11 +32,11 @@ const Skills = () => {
   return (
     <section
       id="skills"
-      className="flex flex-col lg:flex-row items-center gap-[50px] h-[80vh] px-[40px] lg:w-[90%] xl:w-[80%] 2xl:w-[70%] mx-auto my-10"
+      className="flex flex-col lg:flex-row items-center gap-[50px] h-[80vh] px-[4px] lg:w-[90%] xl:w-[80%] 2xl:w-[70%] mx-auto my-10"
     >
       <div className="space-y-4 lg:w-[100%] ml-auto text-[#8892b0]">
         <Title number={"02"} title={"Skills"}></Title>
-        <div className="flex items-center">
+        <div className="flex flex-col md:flex-row gap-4 items-center">
           <div className="space-y-3 lg:w-[50%] ml-15 text-[#8892b0] shrink-0 gap-4">
             <ul className="grid grid-cols-2 gap-[10px] text-[15px]">
               {skills.map((skill) => (
@@ -47,11 +47,11 @@ const Skills = () => {
               ))}
             </ul>
           </div>
-          <div className="grid grid-cols-4 place-items-center md:grid-cols-4 gap-2">
+          <div className="grid grid-cols-2 md:grid-cols-4 place-items-center gap-2">
             {images.map((image, ind) => (
               <div
                 key={ind}
-                className="w-[100px] h-[75px] bg-[white] bg-cover rounded-xl"
+                className="shadow-xl w-[100px] h-[75px] bg-[#263750] bg-cover rounded-xl"
               >
                 <img
                   className="h-[80px] bg-contain mx-auto my-auto py-[10px] px-[px]"

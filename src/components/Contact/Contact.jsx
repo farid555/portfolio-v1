@@ -39,7 +39,7 @@ const Contact = () => {
         <section id="contact" className="mt-[150px] px-[40px] lg:w-[90%] xl:w-[80%] 2xl:w-[70%] mx-auto mb-[200px] ">
             <h3 className="text-primary text-prime pb-2">{`What's`} next?</h3>
             <Title
-                number={'04'}
+                number={'05'}
                 title={'Contact Me'}
             ></Title>
             <form

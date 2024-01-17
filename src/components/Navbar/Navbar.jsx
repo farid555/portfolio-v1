@@ -79,7 +79,7 @@ const Navbar = () => {
           offset={50}
           duration={500}
         >
-          <span className="text-[#61fad5] text-prime">04.</span> Contact
+          <span className="text-[#61fad5] text-prime">05.</span> Contact
         </Link>
       </li>
       <button
