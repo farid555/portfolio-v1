@@ -1,0 +1,51 @@
+[
+    {
+        "institute": "ICONICS",
+        "program": "Instructor-led training (GENESIS64 INTRODUCTION) Online",
+        "year": "September 20th, 2022",
+        "location": "Czech Republic",
+        "Link": "https://iconics.com/Resources/Training"
+    },
+    {
+        "institute": "ICONICS",
+        "program": "Instructor-led training (HYPER HISTORIAN) Online",
+        "year": "October 20th, 2022",
+        "location": "Czech Republic",
+        "Link": "https://iconics.com/Resources/Training"
+    },
+    {
+        "institute": "Helsinki University",
+        "program": "Open University courses in Full-stack Development",
+        "year": "October 20th, 2022.",
+        "location": "Helsinki, Finland",
+        "Link": "https://fullstackopen.com"
+    },
+    {
+        "institute": "Centria University of Applied Sciences",
+        "program": "The Basic of C#",
+        "date": "2019",
+        "location": "Pietarsaari, Finland",
+        "Link": "https://centria.github.io/basic-coding/"
+    },
+    {
+        "institute": "Pecol",
+        "program": "Industrial Training Certificate",
+        "year": "2017",
+        "location": "Kuala Lumpur, Malaysia",
+        "Link": "https://www.bwsmalaysia.com.my/"
+    },
+    {
+        "institute": "Shyamoli Ideal Polytechnic Institute",
+        "program": "PLC Automation Training Programming",
+        "date": "2012",
+        "location": "Dhaka, Bangladesh",
+        "Link": "https://www.facebook.com"
+    },
+    {
+        "institute": "Pi-labs",
+        "program": "AVR Microcontroller Training Program",
+        "date": "2012",
+        "location": "Dhaka, Bangladesh",
+        "Link": "https://www.pilabsbd.com/"
+    }
+]

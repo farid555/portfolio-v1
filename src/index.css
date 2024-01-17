@@ -1,0 +1,83 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: 'Inter', sans-serif;
+}
+
+.text-prime {
+  font-family: 'Fira Code', monospace;
+}
+
+.button {
+  padding: 10px 17px;
+  color: #61fad5;
+  border: 1px solid #61fad5;
+  border-radius: 4px;
+  font-size: 15px;
+  cursor: pointer;
+  font-family: 'Fira Code', monospace;
+}
+
+.button:hover {
+  background: #61fad5;
+  color: #0a192f;
+}
+
+.input {
+  height: 45px;
+  padding: 10px;
+  transition: .2s linear;
+  border: 1px solid #61fad5;
+  font-size: 14px;
+  letter-spacing: 2px;
+  border-radius: 4px;
+  background-color: #0a192f;
+}
+
+.input:focus {
+  outline: none;
+  border: 1px solid #61fad5;
+  box-shadow: -5px -5px 0px #61fad5;
+}
+
+.input-container:hover>.icon {
+  animation: anim 1s linear infinite;
+}
+
+@keyframes anim {
+
+  0%,
+  100% {
+    transform: translateY(calc(-50% - 5px)) scale(1);
+  }
+
+  50% {
+    transform: translateY(calc(-50% - 5px)) scale(1.1);
+  }
+}
+
+
+.card {
+  width: 300px;
+  height: 300px;
+}
+
+.face {
+  position: absolute;
+  bottom: -3px;
+  left: 0;
+  width: 300px;
+  height: 303px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.face.front {
+  background-color: #61fad5;
+  opacity: .3;
+  border-radius: 4px;
+}

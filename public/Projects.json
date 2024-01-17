@@ -1,0 +1,76 @@
+[
+    {
+        "name": "Hujuto",
+        "description": "Streamlined auto-mobile selling platform: Manage vehicle data with Firebase authentication, enabling seamless storage, updates, and deletions. Elevate user experience through NPM packages, ensuring desktop and mobile responsiveness for a versatile and user-friendly marketplace.",
+        "technologies": [
+            "React",
+            "Firebase",
+            "Node.js",
+            "Express.js",
+            "MongoDB"
+        ],
+        "live_link": "https://hujuto.web.app",
+        "video_url": "https://player.vimeo.com/video/898073181?h=2d072fc532",
+        "img_urls": [
+            "https://i.ibb.co/zxBHvW8/Screenshot-2023-12-25-234254.png",
+            "https://i.ibb.co/nQ1YCNC/Screenshot-2023-12-25-234308.png",
+            "https://i.ibb.co/hHXsdDM/Screenshot-2023-12-25-234321.png",
+            "https://i.ibb.co/bdRJ572/Screenshot-2023-12-25-234331.png"
+        ],
+        "details": {
+            "key1": "value1",
+            "key2": "value2",
+            "key3": "value3"
+        }
+    },
+    {
+        "name": "Quantumrealm Technology",
+        "description": "Streamlined workforce management: Admins control verified employees, assign HR roles, and manage departures. HRs access private dashboards for employee oversight and payroll, while employees track payments and submit work via personalized dashboards. Effortless login categorizes users.",
+        "technologies": [
+            "React",
+            "Material ui",
+            "Firebase",
+            "JWT (Json Web Token)",
+            "Node.js",
+            "Express.js",
+            "MongoDB"
+        ],
+        "live_link": "https://quantamrealm-technology.web.app",
+        "video_url": "https://player.vimeo.com/video/893685103?h=56d1cd2429",
+        "img_urls": [
+            "https://i.ibb.co/6sSfZxp/screencapture-localhost-5173-2023-12-31-17-32-44-5.png",
+            "https://i.ibb.co/vjBV2DF/screencapture-localhost-5173-2023-12-31-17-32-44-4.png",
+            "https://i.ibb.co/zNMR9Ch/screencapture-localhost-5173-2023-12-31-17-32-44-3.png"
+        ],
+        "details": {
+            "key1": "value1",
+            "key2": "value2",
+            "key3": "value3"
+        }
+    },
+    {
+        "name": "Oasis Inn",
+        "description": "Immersive hotel booking platform with secure logins, JWT authentication, and diverse room options. Effortless booking cancellation, responsive design, and dynamic animations. Comprehensive user journey with optional pages, fostering trust through testimonials and a user-friendly review system.",
+        "technologies": [
+            "React",
+            "Firebase",
+            "JWT (Json Web Token)",
+            "Node.js",
+            "Express.js",
+            "MongoDB"
+        ],
+        "live_link": "https://oasis-inn.web.app",
+        "video_url": "https://player.vimeo.com/video/893667029?h=559c63d0da",
+        "img_urls": [
+            "https://i.ibb.co/zxBHvW8/Screenshot-2023-12-25-234254.png",
+            "https://i.ibb.co/nQ1YCNC/Screenshot-2023-12-25-234308.png",
+            "https://i.ibb.co/hHXsdDM/Screenshot-2023-12-25-234321.png",
+            "https://i.ibb.co/bdRJ572/Screenshot-2023-12-25-234331.png"
+        ],
+        "details": {
+            "key1": "value1",
+            "key2": "value2",
+            "key3": "value3"
+        }
+    }
+]

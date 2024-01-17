@@ -1,0 +1,33 @@
+
+  [
+  {
+    "companyName": "Sarlin Oy Ab",
+    "task": "Junior Software Specialist (ICONICS) Software maintenance, Front-end (GraphWorX64), and Backend (Workbench),Beckhoff Configuration, Automation testing, SCADA design, Microsoft SQL",
+    "year": "August 2022 - December 2023",
+    "location": "Kaivokselantie 3 | Vantaa, Finland"
+  },
+  {
+    "companyName": "Integrify",
+    "task": "Javascript, React, NodeJs, PostgerSQL, MongoDB, REST API",
+    "year": "January 2022 - March 2022",
+    "location": "Helsinki, Finland"
+  },
+  {
+    "companyName": "Professional Cleaning Company (PCS)",
+    "task": "maintenance specialist",
+    "year": "December2018 - February 2021",
+    "location": "Pietarsaari, Finland"
+  },
+  {
+    "companyName": "Pecol",
+    "task": "Responsible for installing, repairing, and troubleshooting various waterheating systems.",
+    "year": "August 2017 - December 2018",
+    "location": "Kuala Lumpur, Malaysia"
+  },
+  {
+    "companyName": "Embedded Engineering and Robotics Technology Ltd.(EERT)",
+    "task": "Designed custom electronics circuits, Operated various types of power supplies, Designed the layouts for an Embedded System Design (PCB)",
+    "year": "March 2011 - March 2014",
+    "location": "Dhaka, Bangladesh"
+  }
+]
