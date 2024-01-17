@@ -14,7 +14,7 @@ const Experiences = () => {
   return (
     <div
       id="experiences"
-      className="flex flex-col lg:flex-row items-center gap-[50px] h-[80vh] px-[40px] lg:w-[90%] xl:w-[80%] 2xl:w-[70%] mx-auto my-[80px]"
+      className="flex flex-col lg:flex-row items-center gap-[50px] px-[40px] lg:w-[90%] xl:w-[80%] 2xl:w-[70%] mx-auto my-[80px]"
     >
       <div className="space-y-4 lg:w-[100%] ml-auto text-[#8892b0]">
         <Title number={"03"} title={"Experiences"}></Title>

@@ -40,7 +40,7 @@ const Navbar = () => {
           className="text-prime tracking-normal hover:text-[#61fad5]"
           spy={true}
           smooth={true}
-          offset={50}
+          offset={-110}
           duration={500}
         >
           <span className="text-[#61fad5] text-prime">02.</span> Skills
@@ -64,7 +64,7 @@ const Navbar = () => {
           className="text-prime tracking-normal hover:text-[#61fad5]"
           spy={true}
           smooth={true}
-          offset={-90}
+          offset={-100}
           duration={500}
         >
           <span className="text-[#61fad5] text-prime">04.</span> Achievements
@@ -104,7 +104,7 @@ const Navbar = () => {
           ></div>
         </div>
         <div>
-          {/* <a className="text-primary text-xl italic text-prime md:ml-[0] ml-[-35px]">{`<Farid/>`}</a> */}
+          <a className="text-primary text-xl italic text-prime md:ml-[0] ml-[-35px]">{`<Farid/>`}</a>
         </div>
       </div>
       <div className="hidden md:flex">
