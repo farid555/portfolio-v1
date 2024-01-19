@@ -16,7 +16,7 @@ const Banner = () => {
       </p>
       <a
         className="button"
-        href="https://drive.google.com/file/d/1vy_VyZWWXyVhE-_uK4TdokDgBOghx9FJ/view?usp=drive_link"
+        href="https://drive.google.com/file/d/1d9HFFgzao1kTCQCebX3qK8zyRAIvxzki/view?usp=drive_link"
         target="blank"
       >
         See Resume
