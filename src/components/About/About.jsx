@@ -29,7 +29,6 @@ const About = () => {
               <div className="filter filter-red">
                 <img className="rounded-[4px]" src="farid.png" alt="" />
               </div>
-              <div className="face hover:hidden front"></div>
             </div>
           </div>
         </div>
