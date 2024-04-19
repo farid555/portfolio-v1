@@ -82,14 +82,7 @@ const Navbar = () => {
           <span className="text-[#61fad5] text-prime">05.</span> Contact
         </Link>
       </li>
-      <button
-        onClick={() => {
-          download(PDF_FILE_URL);
-        }}
-        className="button tracking-normal"
-      >
-        Download Resume
-      </button>
+     
     </div>
   );
 
