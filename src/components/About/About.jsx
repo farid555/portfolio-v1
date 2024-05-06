@@ -18,7 +18,7 @@ const About = () => {
           <p>
             {" "}
             I am appreciative of my experience working in a variety of demanding
-            settings. I now have excellent communication abilities. My extensive
+            settings. I am looking for DevOps Engineering and AWS Cloud Engineering positions. I Excel collaborative team settings and as an independent contributor, possessing a strong drive for innovation, problem-solving, and experience in automation and troubleshooting. I now have excellent communication abilities. My extensive
             expertise allows me to adapt to any setting and contribute
             significantly to teams in the future.
           </p>

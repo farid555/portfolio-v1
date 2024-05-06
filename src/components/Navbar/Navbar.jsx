@@ -34,6 +34,7 @@ const Navbar = () => {
           <span className="text-[#61fad5] text-prime">01.</span> About
         </Link>
       </li>
+     
       <li className="cursor-pointer">
         <Link
           to="skills"
@@ -47,6 +48,18 @@ const Navbar = () => {
         </Link>
       </li>
       <li className="cursor-pointer">
+      <Link
+        to="ProfessionalSummery"
+        className="text-prime tracking-normal hover:text-[#61fad5]"
+        spy={true}
+        smooth={true}
+        offset={-70}
+        duration={500}
+      >
+        <span className="text-[#61fad5] text-prime">03.</span> Professional Summery
+      </Link>
+    </li>
+      <li className="cursor-pointer">
         <Link
           to="experiences"
           className="text-prime tracking-normal hover:text-[#61fad5]"
@@ -55,7 +68,7 @@ const Navbar = () => {
           offset={-90}
           duration={500}
         >
-          <span className="text-[#61fad5] text-prime">03.</span> Experiences
+          <span className="text-[#61fad5] text-prime">04.</span> Experiences
         </Link>
       </li>
       <li className="cursor-pointer">
@@ -67,7 +80,7 @@ const Navbar = () => {
           offset={-100}
           duration={500}
         >
-          <span className="text-[#61fad5] text-prime">04.</span> Achievements
+          <span className="text-[#61fad5] text-prime">05.</span> Achievements
         </Link>
       </li>
       <li className="cursor-pointer">
@@ -79,7 +92,7 @@ const Navbar = () => {
           offset={50}
           duration={500}
         >
-          <span className="text-[#61fad5] text-prime">05.</span> Contact
+          <span className="text-[#61fad5] text-prime">06.</span> Contact
         </Link>
       </li>
      

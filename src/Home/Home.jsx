@@ -5,6 +5,7 @@ import Footer from "../components/Footer/Footer";
 import Skills from "../components/Skills/Skills";
 import Experiences from "../components/Experiences/Experiences";
 import Achievements from "../components/Achievements/Achievements";
+import ProfSummery from "../components/ProfessionalSummery/ProfessionalSummery";
 
 const Home = () => {
   return (
@@ -12,6 +13,7 @@ const Home = () => {
       <Banner></Banner>
       <About></About>
       <Skills></Skills>
+      <ProfSummery></ProfSummery>
       <Experiences></Experiences>
       <Achievements></Achievements>
       <Contact></Contact>
