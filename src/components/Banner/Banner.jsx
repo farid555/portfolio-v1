@@ -12,7 +12,7 @@ const Banner = () => {
       <p className="text-[#8892b0] mt-[20px] md:mt-[30px] mb-[50px]">
         Thank you for taking the time to visit my website. The idea of
         discussing and demonstrating how my background and skills make me a top
-        candidate for the Software Expert as well as the Devops Expert position excites me.
+        candidate for the Software Expert as well as the Devops and GitOps Expert position excites me.
       </p>
       <a
         className="button"
