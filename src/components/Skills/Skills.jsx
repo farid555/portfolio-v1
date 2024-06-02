@@ -11,12 +11,6 @@ const Skills = () => {
       .then((data) => setImages(data));
   }, []);
   const skills = [
-    "Javascript",
-    "React",
-    "Node.js",
-    "Express.js",
-    "MongoDB",
-    "PostgreSql",
     "Linux",
     "Shell Scripting",
     "Python",
@@ -24,9 +18,14 @@ const Skills = () => {
     "Docker",
     "Docker-compose",
     "Kubernetes(K8S)",
-    "Ansible",
+    "Git",
+    "Github - Actions",
     "Terraform",
     "AWS",
+    "Javascript",
+    "React",
+    "Node.js",
+    "MongoDB",
   ];
 
   return (
