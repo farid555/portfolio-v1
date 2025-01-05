@@ -10,18 +10,9 @@ const About = () => {
       <div className="flex items-center gap-4">
         <div className="space-y-4 lg:w-[50%] ml-auto text-[#8892b0]">
           <p>
-            {"I've"} been a resident in Helsinki since 2021. {"I'm"} a driven
-            DevOps engineer who has high standards for quickly picking up new
-            abilities. I obtained a software development diploma in addition to
-            my {"bachelor's"} degree in business management.
+          Hello! My name is Mohammad Farid Uzzaman, and I am an enthusiastic aspiring DevOps and Cloud Engineer currently seeking an internship opportunity to kickstart my career. I am passionate about leveraging automation, cloud technologies, and modern DevOps practices to build scalable, reliable, and efficient systems. With a foundational knowledge of tools and platforms like AWS, Docker, Kubernetes, and Jenkins, I am eager to apply my skills in real-world scenarios while learning from experienced professionals. I am particularly excited about the intersection of development and operations, where collaboration and innovation drive impactful results.
           </p>
-          <p>
-            {" "}
-            I am appreciative of my experience working in a variety of demanding
-            settings. I am looking for DevOps Engineering and AWS Cloud Engineering positions. I Excel collaborative team settings and as an independent contributor, possessing a strong drive for innovation, problem-solving, and experience in automation and troubleshooting. I now have excellent communication abilities. My extensive
-            expertise allows me to adapt to any setting and contribute
-            significantly to teams in the future.
-          </p>
+          
         </div>
         <div className="w-[300px] mx-auto shrink-0 mr-auto  cursor-progress">
           <div className="container">
