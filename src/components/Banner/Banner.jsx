@@ -2,7 +2,7 @@ const Banner = () => {
   return (
     <div className="h-[100vh] px-[40px] flex flex-col items-start justify-center lg:w-[90%] xl:w-[80%] 2xl:w-[70%] mx-auto">
       <h3 className="text-primary text-prime  text-[17px]">Hi, my name is</h3>
-      <h1 className="text-[3rem] md:text-[4.5rem] text-[#ccd6f6] font-[700] leading-none mt-4 mb-5 md:mt-5 md:mb-6">
+      <h1 className="text-[3rem] md:text-[3rem] text-[#ccd6f6] font-[700] leading-none mt-4 mb-5 md:mt-5 md:mb-6">
         Mohammad Farid Uzzaman
       </h1>
       <h1 className="text-[2rem] md:text-[2rem] text-[#8892b0] font-[700] leading-none">
