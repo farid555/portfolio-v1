@@ -11,17 +11,17 @@ const Skills = () => {
       .then((data) => setImages(data));
   }, []);
   const skills = [
-    "Linux",
+    "AWS",
+    "Linux Administration",
     "Shell Scripting",
     "Python",
     "Jenkins",
-    "Docker",
-    "Docker-compose",
+    "Docker Container",
+    "Docker compose",
     "Kubernetes(K8S)",
     "Git",
-    "Github - Actions",
+    "Github Actions",
     "Terraform",
-    "AWS",
     "Javascript",
     "React",
     "Node.js",
